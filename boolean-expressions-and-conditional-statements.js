@@ -62,11 +62,11 @@ console.log(`You are the young apprentice of the healer living in a small villag
                      Although you do start to wonder if that village would have been helpful to stop into. 
                      Maybe they had a village healer to chat with... `);
                      console.log(`You keep walking for a long time, like way longer than you thought you shoud.
-                      You ask the storyteller what happens next. But she's back to working on her coding classword...
+                      You ask the storyteller what happens next. But she's back to working on her coding classwork...
                       whatever that is.`);
 
                       return 
-                      
+
                   } else if (mountainOrVillage === "valley"){ 
                       console.log (`Oh bummer. You walk all that way and find out that it is a lepers village.
                         You are infected with leprosy and are now live in this village. Wait...
